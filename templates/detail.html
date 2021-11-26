@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<div class="alert alert-primary" role="alert">
+  <h3>習慣の詳細ページ</h3>
+</div>
+{% endblock header %}
+
+{% block main %}
+{% if user.is_authenticated %}
+  <div class="container">
+    <div class="alert alert-success" role="alert">
+      <p><a>タイトル：{{ object.habit }}</a></p>
+      <p><a>頻度：{{ object.frequency }}</a></p>
+      <p><a>習慣タグ：{{ object.good_or_bad }}</a></p>
+    </div>
+  </div>
+{% else %}
+  Please login
+{% endif %}
+{% endblock main %}
