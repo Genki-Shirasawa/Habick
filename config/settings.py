@@ -95,7 +95,8 @@ MEDIA_URL = '/media/'
 LOGIN_URL = 'login'
 
 
-# デプロイの設定
+# Settings for deployment
+
 DEBUG = False
 
 try:
@@ -104,7 +105,8 @@ except ImportError:
     pass
 
 
-# ローカル用設定
+# Settings for the local environment
+
 if DEBUG:
     ALLOWED_HOSTS = ['*']
     # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
