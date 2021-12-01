@@ -129,4 +129,3 @@ if not DEBUG:
 
     STATIC_ROOT = '/usr/share/nginx/html/static'
     MEDIA_ROOT = '/usr/share/nginx/html/media'
-
