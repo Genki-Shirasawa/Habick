@@ -100,17 +100,17 @@ LOGIN_URL = 'login'
 DEBUG = False
 
 try:
-    from .local_settings import *
+    from local_settings import *
 except ImportError:
     pass
-
 
 # Settings for the local environment
 
 if DEBUG:
     ALLOWED_HOSTS = ['*']
     # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-    MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+    STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static/')]
+    MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 if not DEBUG:
     import environ
@@ -129,3 +129,4 @@ if not DEBUG:
 
     STATIC_ROOT = '/usr/share/nginx/html/static'
     MEDIA_ROOT = '/usr/share/nginx/html/media'
+
