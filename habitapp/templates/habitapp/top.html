@@ -1,0 +1,108 @@
+{% extends 'habitapp/base.html' %}
+{% load static %}
+
+{% block customcss %}
+{% endblock customcss%}
+
+{% block header %}
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand" href="#page-top"><img src="{% static 'habitapp/img/logo.png' %}" alt="..."></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars ms-1"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                <li class="nav-item"><a class="nav-link" href="#services">サービス</a></li>
+                <li class="nav-item"><a class="nav-link" href="#developer">開発者</a></li>
+                <li class="nav-item"><a class="nav-link" href="{% url 'habitapp:signup' %}">メンバーになる（無料）</a></li>
+                <li class="nav-item"><a class="nav-link" href="{% url 'habitapp:login' %}">ログイン</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Masthead-->
+<header class="masthead">
+    <div class="container">
+        <div class="masthead-heading text-uppercase">Welcome to Habick</div>
+        <div class="masthead-subheading">習慣を見直し、可能性を広げよう</div>
+        <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+    </div>
+</header>
+{% endblock header %}
+
+{% block main %}
+<!-- Services-->
+<section class="page-section" id="services">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Services</h2>
+            <h3 class="section-subheading text-muted">サービス紹介</h3>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-4">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fas fa-address-book fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="my-3">習慣の登録</h4>
+                <p class="text-muted">あなたの現在の習慣を登録しましょう。</p>
+            </div>
+            <div class="col-md-4">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fas fa-chart-pie fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="my-3">習慣の可視化</h4>
+                <p class="text-muted">残りの人生の何％を現在の習慣に使うのかが分かります。</p>
+            </div>
+            <div class="col-md-4">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fas fa-stopwatch fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="my-3">命の時計</h4>
+                <p class="text-muted">あなたに残された時間（平均寿命まで）がどのくらいあるかが分かります。</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Team-->
+<section class="page-section bg-light" id="developer">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Developer</h2>
+            <h3 class="section-subheading text-muted">開発者紹介</h3>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 mx-auto text-center">
+                <div class="team-member">
+                    <img class="mx-auto rounded-circle" src="{% static 'habitapp/img/team/genki_shirasawa.jpeg' %}" alt="..." />
+                    <h4>ゲンキ</h4>
+                    <p class="text-muted">AIを使った豪雨予測を試みる大学院生。つよつよなエンジニア目指して日々修行してます。</p>
+                    <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/___genki___v"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href=""><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/___genki___v/"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock main %}
+
+{% block footer %}
+<!-- Footer-->
+<footer class="footer py-4">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4 text-lg-start">Copyright &copy; 2021 Genki</div>
+            <div class="col-lg-4 my-3 my-lg-0">
+            </div>
+            <div class="col-lg-4 text-lg-end">
+            </div>
+        </div>
+    </div>
+</footer>
+{% endblock footer %}
