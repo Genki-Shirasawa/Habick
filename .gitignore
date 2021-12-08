@@ -6,5 +6,6 @@ media
 local_settings.py
 settings_for_local.py
 .env
+.vscode
 Pipfile
 Pipfile.lock
