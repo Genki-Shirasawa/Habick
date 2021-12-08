@@ -78,7 +78,6 @@ MEDIA_URL = '/media/'
 # Others.
 LOGIN_URL = 'login'
 
-
 # デプロイ設定
 DEBUG = False
 
