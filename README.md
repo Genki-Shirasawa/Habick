@@ -2,9 +2,11 @@
 
 "Habick"は今のあなたの習慣が残りの人生の何％を占めているのかを可視化し，危機感を与えるWebアプリです．
 
+
 # デモ
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
 
 # 機能一覧
 
@@ -15,9 +17,8 @@
 * 命のタイマー
   自分に残されている時間（日本人の平均寿命まで）がどの位あるのかを定量的に把握できます．
 
-"hoge"のセールスポイントや差別化などを説明する
 
-# Requirement
+# 必要なライブラリ等
 
 * python 3.7
 * Django 3.1.4
@@ -25,7 +26,7 @@
 * gunicorn 20.0.4
 
 
-# Installation
+# インストール方法
 
 Requirementで列挙したライブラリなどのインストール方法を説明する
 
@@ -33,7 +34,7 @@ Requirementで列挙したライブラリなどのインストール方法を説
 pip install huga_package
 ```
 
-# Usage
+# 使用方法
 
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
@@ -43,23 +44,9 @@ cd examples
 python demo.py
 ```
 
-# Note
 
-注意点などがあれば書く
+# 作成者情報
 
-# Author
-
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+* 作成者: 白澤　元気
+* 所属: 鹿児島大学大学院　理工学研究科　海洋土木工学プログラム
+* E-mail: bjuuh268@gmail.com
