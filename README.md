@@ -1,6 +1,6 @@
-# 習慣可視化アプリ 「Habick」
+# 習慣可視化アプリ "Habick"
 
-"Habick"は，今のあなたの習慣が残りの人生の何％を占めているのかを可視化し危機感を与えるWebアプリです．
+"Habick"は今のあなたの習慣が残りの人生の何％を占めているのかを可視化し，危機感を与えるWebアプリです．
 
 # DEMO
 
@@ -12,10 +12,11 @@
 
 # Requirement
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
+* python 3.7
+* Django 3.1.4
+* django-environ 0.8.1
+* gunicorn 20.0.4
 
-* huga 3.5.2
-* hogehuga 1.0.2
 
 # Installation
 
