@@ -26,15 +26,21 @@
 パスワード : test1209
 
 
-# 使用言語・FW・OS
-
-- python 3.7
-- HTML
-- CSS
-- JavaScript
-- Django 3.1.4
-- BootStrap 5.1
-- macOS
+# 使用技術
+- 言語
+  - python 3.7
+  - HTML
+  - CSS
+  - JavaScript
+- FW
+  - Django 3.1.4
+  - BootStrap 5.1
+- インフラ
+  - Nginx
+  - Gunicorn
+  - Vultr
+- DB
+  - SQLite
 
 
 # 機能一覧
