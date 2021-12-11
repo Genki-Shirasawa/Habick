@@ -6,6 +6,7 @@
 
 1. [デモ画面](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E3%83%87%E3%83%A2%E7%94%BB%E9%9D%A2)
 2. [機能一覧](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7)
+3. [テスト用アカウント]()
 3. [使用言語・FW・OS](https://github.com/Genki-Shirasawa/Habick#%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9Efwos)
 4. [インストール方法](https://github.com/Genki-Shirasawa/Habick#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95)
 5. [作成者情報](https://github.com/Genki-Shirasawa/Habick#%E4%BD%9C%E6%88%90%E8%80%85%E6%83%85%E5%A0%B1)
@@ -14,6 +15,12 @@
 # デモ画面
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
+
+# テスト用アカウント
+
+ユーザー名 : test
+パスワード : test77
 
 
 # 機能一覧
