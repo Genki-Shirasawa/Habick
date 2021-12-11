@@ -72,6 +72,10 @@ python manage.py runserver
 
 
 # 実装予定の機能
+以下は今後実装予定の機能です  
+- [x] a
+- [] b
+- [] c
 
 
 # 作成者情報
