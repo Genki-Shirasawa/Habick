@@ -19,8 +19,7 @@
 
 # 機能一覧
 
-### <img width="163" alt="habit_registration_icon" src="https://user-images.githubusercontent.com/74233278/145666818-5c2adcd6-da2f-4fc3-95ce-8afd62f477d1.png">
-習慣の登録
+### 習慣の登録
 現在の習慣を把握するために，まずは現在の習慣を登録しましょう！
 
 ### 習慣の可視化
@@ -38,25 +37,30 @@
 - JavaScript
 - Django 3.1.4
 - BootStrap 5.1
-- CentOS
+- macOS
+
+
+# 工夫した点
+- pythonコーディング規約であるpep8に従い，可読性・保守性を意識して実装しました．
+- BootStrapを用いることで，シンプルかつレスポンシブなUIに仕上げました．
 
 
 # インストール方法
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
-
+1. リポジトリをクローンする
 ```bash
-pip install huga_package
+git clone https://github.com/Genki-Shirasawa/Habick.git
 ```
-
-# 使用方法
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
+2. リポジトリに移動
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+cd Habick
+```
+3. 必要なライブラリ等をインストールする
+```bash
+pip install -r requirement.txt
+```
+4. サーバーを立ち上げる
+```
+python manage.py runserver
 ```
 
 
