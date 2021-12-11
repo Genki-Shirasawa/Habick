@@ -4,7 +4,7 @@
 今のあなたの習慣が残りの人生の何％を占めているのかを可視化し，危機感を与え，習慣改善をフォローするWebアプリです．
 
 
-1. [デモ画面](https://github.com/Genki-Shirasawa/Habick/edit/main/README.md#デモ画面)
+1. [デモ画面](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E3%83%87%E3%83%A2%E7%94%BB%E9%9D%A2)
 2. 機能一覧
 3. 使用言語・FW・OS
 4. インストール方法
