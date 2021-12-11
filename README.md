@@ -81,7 +81,6 @@ python manage.py runserver
 
 - [ ] 習慣の可視化機能
 - [ ] 命のタイマー機能
-- [ ] 
 
 
 # 作成者情報
