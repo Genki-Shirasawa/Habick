@@ -1,5 +1,4 @@
 # 習慣可視化アプリ "Habick"
-https://img.shields.io/twitter/url?style=social
 [![logo](https://user-images.githubusercontent.com/74233278/145626939-e65973b2-8396-486b-bb88-05560f48c686.png)](https://habick.org)
 
 今のあなたの習慣が残りの人生の何％を占めているのかを可視化し，危機感を与え，習慣改善のきっかけを作るWebアプリです．
@@ -20,6 +19,7 @@ https://img.shields.io/twitter/url?style=social
 
 # 機能一覧
 
+<img width="163" alt="habit_registration_icon" src="https://user-images.githubusercontent.com/74233278/145666818-5c2adcd6-da2f-4fc3-95ce-8afd62f477d1.png">
 ### 習慣の登録
 現在の習慣を把握するために，まずは現在の習慣を登録しましょう！
 
