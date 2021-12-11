@@ -87,6 +87,7 @@ python manage.py runserver
 
 - [ ] 習慣の可視化機能
 - [ ] 命のタイマー機能
+- [ ] 本番環境用にDBの変更
 
 
 # 作成者情報
