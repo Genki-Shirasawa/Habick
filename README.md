@@ -39,11 +39,12 @@
 
 # 機能一覧
 
-- ユーザーの登録機能 (signupfunc)
-- ログイン・ログアウト機能 (loginfunc， logoutfunc)
-- 習慣の登録機能 (HabitCreate)
-- 習慣の削除機能 (HabitDelete)
-- 習慣の編集機能 (HabitUpdate)
+- ユーザーの登録機能 ([signupfunc](https://github.com/Genki-Shirasawa/Habick/blob/1556bcbc95a96defed766292e7d1edc9278ad41b/habitapp/views.py#L16))
+- ログイン機能 ([loginfunc](https://github.com/Genki-Shirasawa/Habick/blob/1556bcbc95a96defed766292e7d1edc9278ad41b/habitapp/views.py#L32))
+- ログアウト機能 ([logoutfunc](https://github.com/Genki-Shirasawa/Habick/blob/1556bcbc95a96defed766292e7d1edc9278ad41b/habitapp/views.py#L51))
+- 習慣の登録機能 ([HabitCreate](https://github.com/Genki-Shirasawa/Habick/blob/1556bcbc95a96defed766292e7d1edc9278ad41b/habitapp/views.py#L73))
+- 習慣の削除機能 ([HabitDelete](https://github.com/Genki-Shirasawa/Habick/blob/1556bcbc95a96defed766292e7d1edc9278ad41b/habitapp/views.py#L87))
+- 習慣の編集機能 ([HabitUpdate](https://github.com/Genki-Shirasawa/Habick/blob/1556bcbc95a96defed766292e7d1edc9278ad41b/habitapp/views.py#L93))
 
 
 # 工夫した点
