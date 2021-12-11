@@ -73,9 +73,9 @@ python manage.py runserver
 
 # 実装予定の機能
 以下は今後実装予定の機能です  
-[x] #739 a
-[] b
-[] c
+- [x] a
+- [x] b
+- [] c
 
 
 # 作成者情報
