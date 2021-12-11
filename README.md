@@ -6,7 +6,7 @@
 
 1. [デモ画面](https://github.com/Genki-Shirasawa/Habick#%E3%83%87%E3%83%A2%E7%94%BB%E9%9D%A2)
 2. [テスト用アカウント](https://github.com/Genki-Shirasawa/Habick#%E3%83%86%E3%82%B9%E3%83%88%E7%94%A8%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)
-3. [使用言語・FW・OS](https://github.com/Genki-Shirasawa/Habick#%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9Efwos)
+3. [使用技術](https://github.com/Genki-Shirasawa/Habick#%E4%BD%BF%E7%94%A8%E6%8A%80%E8%A1%93)
 4. [機能一覧](https://github.com/Genki-Shirasawa/Habick#%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7)
 5. [工夫した点](https://github.com/Genki-Shirasawa/Habick#%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%9F%E7%82%B9)
 6. [ローカルでの動作方法](https://github.com/Genki-Shirasawa/Habick#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%81%A7%E3%81%AE%E5%8B%95%E4%BD%9C%E6%96%B9%E6%B3%95)
