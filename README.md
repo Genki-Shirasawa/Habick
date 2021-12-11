@@ -61,6 +61,8 @@
 
 # ローカルでの動作方法
 
+python，gitがインストール済みの状態で行ってください．  
+
 1. リポジトリをクローンする
 ```bash
 git clone https://github.com/Genki-Shirasawa/Habick.git
