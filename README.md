@@ -69,15 +69,16 @@ git clone https://github.com/Genki-Shirasawa/Habick.git
 ```bash
 cd Habick
 ```
-3. 仮想環境の構築
+3. 仮想環境の構築&立ち上げ
 ```bash
-
+python -m venv myvenv
+source myvenv/bin/activate
 ```
-5. 必要なライブラリ等をインストールする
+4. 必要なライブラリ等をインストールする
 ```bash
 pip install -r requirement.txt
 ```
-4. サーバーを立ち上げる
+5. サーバーを立ち上げる
 ```
 python manage.py runserver
 ```
