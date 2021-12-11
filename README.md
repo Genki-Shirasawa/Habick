@@ -19,8 +19,8 @@
 
 # 機能一覧
 
-<img width="163" alt="habit_registration_icon" src="https://user-images.githubusercontent.com/74233278/145666818-5c2adcd6-da2f-4fc3-95ce-8afd62f477d1.png">
-### 習慣の登録
+### <img width="163" alt="habit_registration_icon" src="https://user-images.githubusercontent.com/74233278/145666818-5c2adcd6-da2f-4fc3-95ce-8afd62f477d1.png">
+習慣の登録
 現在の習慣を把握するために，まずは現在の習慣を登録しましょう！
 
 ### 習慣の可視化
