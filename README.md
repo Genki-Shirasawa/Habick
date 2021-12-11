@@ -2,7 +2,7 @@
 [![logo](https://user-images.githubusercontent.com/74233278/145626939-e65973b2-8396-486b-bb88-05560f48c686.png)](https://habick.org)*(URL : [https://habick.org](https://habick.org))*
 
 今のあなたの習慣が残りの人生の何％を占めているのかを可視化し，危機感を与え，習慣改善のきっかけを作るWebアプリです．  
-<img width="1000" alt="top" src="https://user-images.githubusercontent.com/74233278/145671637-03d4c3c2-62fe-4210-b7f9-c11ba65a15f2.png">  
+![habick_top](https://user-images.githubusercontent.com/74233278/145671890-a854f189-a655-4d4b-80f7-2500672fd7cd.png)  
 
 
 1. [デモ画面](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E3%83%87%E3%83%A2%E7%94%BB%E9%9D%A2)
