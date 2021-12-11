@@ -1,5 +1,5 @@
 # 習慣可視化アプリ "Habick"
-[![logo](https://user-images.githubusercontent.com/74233278/145626939-e65973b2-8396-486b-bb88-05560f48c686.png)](https://habick.org)
+[![logo](https://user-images.githubusercontent.com/74233278/145626939-e65973b2-8396-486b-bb88-05560f48c686.png)](https://habick.org) URL : [https://habick.org](https://habick.org)
 
 今のあなたの習慣が残りの人生の何％を占めているのかを可視化し，危機感を与え，習慣改善のきっかけを作るWebアプリです．
 
