@@ -5,9 +5,9 @@
 
 
 1. [デモ画面](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E3%83%87%E3%83%A2%E7%94%BB%E9%9D%A2)
-2. [機能一覧](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7)
-3. [テスト用アカウント](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E3%83%86%E3%82%B9%E3%83%88%E7%94%A8%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)
-4. [使用言語・FW・OS](https://github.com/Genki-Shirasawa/Habick#%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9Efwos)
+2. [テスト用アカウント](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7)
+3. [使用言語・FW・OS](https://github.com/Genki-Shirasawa/Habick/blob/main/README.md#%E3%83%86%E3%82%B9%E3%83%88%E7%94%A8%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)
+4. [機能一覧](https://github.com/Genki-Shirasawa/Habick#%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9Efwos)
 5. [ローカルでの動作方法]()
 6. [実装予定の機能]()
 7. [作成者情報](https://github.com/Genki-Shirasawa/Habick#%E4%BD%9C%E6%88%90%E8%80%85%E6%83%85%E5%A0%B1)
@@ -19,17 +19,9 @@
 
 
 # テスト用アカウント
-
+以下のアカウントでログインすると，ユーザー登録不要でアプリを楽しめます．  
 ユーザー名 : test  
 パスワード : test1209
-
-
-# 機能一覧
-
-- ユーザーの登録，ログイン機能
-- 習慣の登録・編集・削除機能
-- 習慣の可視化機能
-- 命のタイマー機能
 
 
 # 使用言語・FW・OS
@@ -41,6 +33,14 @@
 - Django 3.1.4
 - BootStrap 5.1
 - macOS
+
+
+# 機能一覧
+
+- ユーザーの登録，ログイン機能
+- 習慣の登録・編集・削除機能
+- 習慣の可視化機能
+- 命のタイマー機能
 
 
 # 工夫した点
