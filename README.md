@@ -28,7 +28,7 @@
 
 # 使用技術
 - 言語
-  - python 3.7
+  - Python 3.7
   - HTML
   - CSS
   - JavaScript
